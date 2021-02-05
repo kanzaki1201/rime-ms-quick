@@ -81,5 +81,5 @@ recognizer:
     reverse_lookup: "`[a-z]*$"
 
 style:
-  font_point: 9 #字號
-  horizontal: false #橫／直排
+  font_point: 14 #字號
+  horizontal: true #橫／直排
