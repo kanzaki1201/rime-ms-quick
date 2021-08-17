@@ -43,3 +43,8 @@ patch:
   schema_list:
     - schema: ms_quick
 ```
+
+---
+Mozc (ibus)
+Preferences: `sudo apt install mozc-utils-gui`
+
