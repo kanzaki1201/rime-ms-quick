@@ -41,5 +41,5 @@ Lunix (參考專案 : https://github.com/rime/ibus-rime )
 $ cat ~/.config/ibus/rime/default.custom.yaml
 patch:
   schema_list:
-    - schema: luna_pinyin_simp
+    - schema: ms_quick
 ```
